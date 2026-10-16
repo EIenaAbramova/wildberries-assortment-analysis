@@ -1,0 +1,15 @@
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+validation/excel_input.json
+validation/*_input.json
+validation/report_*.png
+validation/assortment.png
+validation/forecast.png
+validation/stock.png
+validation/history.png
+validation/backtest.png
+validation/source.png
+validation/dashboard.png
+*.zip
