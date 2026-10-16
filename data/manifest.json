@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Август 2024.xlsx",
+    "period": "2024-08",
+    "rows": 2318,
+    "sha256": "e7034f7b2607b5e8e54a0bc62f37e40c9ed7d55d7d4cefb4c192e13a40ae609f"
+  },
+  {
+    "file": "Апрель 2025.xlsx",
+    "period": "2025-04",
+    "rows": 2473,
+    "sha256": "3644954242ec5554e603978028e6c14bfe29da08402420a15bb6eeabe7d045dc"
+  },
+  {
+    "file": "Декабрь 2024.xlsx",
+    "period": "2024-12",
+    "rows": 2409,
+    "sha256": "76d4e1ed9ceb7899e28833024a7d9c2e56c2a050151747101abb45a4c10fbcf7"
+  },
+  {
+    "file": "Июль 2024.xlsx",
+    "period": "2024-07",
+    "rows": 2283,
+    "sha256": "6cc2e17e18a3865d605b76f31bb0c1272ff51cdb60c8464abb8b3fc029def8c9"
+  },
+  {
+    "file": "Июнь 2024.xlsx",
+    "period": "2024-06",
+    "rows": 2225,
+    "sha256": "751e695f1e72c3657c629a1295bb7298d8f3309225cad96110c30ec44d033dcf"
+  },
+  {
+    "file": "Март 2025.xlsx",
+    "period": "2025-03",
+    "rows": 2442,
+    "sha256": "4870fbd433688f62b05d398083c68c347679b3c90bb2f9664520ddcba90f7a14"
+  },
+  {
+    "file": "Ноябрь 2024.xlsx",
+    "period": "2024-11",
+    "rows": 2406,
+    "sha256": "ff2b94a4558dc843b3e72ea3b181b8c0c25ac42b9728c8d8cfba3237639f4c9f"
+  },
+  {
+    "file": "Октябрь 2024.xlsx",
+    "period": "2024-10",
+    "rows": 2384,
+    "sha256": "dafdb2fc62b61e033d8083376fd9ec056f993c954ddd1bda16755f8051111457"
+  },
+  {
+    "file": "Сентябрь 2024.xlsx",
+    "period": "2024-09",
+    "rows": 2354,
+    "sha256": "62b3735a52cac36dc2c81ab392c84bd64da025ec400225bfd6eaa16e737baa2b"
+  },
+  {
+    "file": "Февраль 2025.xlsx",
+    "period": "2025-02",
+    "rows": 2419,
+    "sha256": "03cdfe068dd9decfd5a8b0bcb37203ef08cec93bcb94b44113260837a5aff988"
+  },
+  {
+    "file": "Январь 2025.xlsx",
+    "period": "2025-01",
+    "rows": 2393,
+    "sha256": "7fbe1585bf34f00856c9048dab77c5f2a4e4c2daa361c69130a7e3e89e5585c6"
+  }
+]
