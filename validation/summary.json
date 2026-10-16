@@ -1,0 +1,305 @@
+{
+  "period_start": "2024-06",
+  "period_end": "2025-04",
+  "forecast_month": "2025-05",
+  "rows": 26106,
+  "skus": 2549,
+  "latest_skus": 2473,
+  "revenue": 856000491.0,
+  "previous_revenue": 757893309.0,
+  "revenue_growth": 0.12944722012316912,
+  "orders": 1382915,
+  "previous_orders": 1026061,
+  "conversion": 0.020293415331401127,
+  "previous_conversion": 0.019668610516556526,
+  "stock": 737635,
+  "top10_forecast": 164981,
+  "top20_gap": 168862,
+  "top20_excess": 2769,
+  "demand_median": 271.5,
+  "low_conversion_count": 592,
+  "marketing_count": 552,
+  "wape": 0.4502503597261253,
+  "naive_wape": 0.3765982462747825,
+  "latest_wape": 0.45952901482157305,
+  "latest_naive_wape": 0.3008498160931412,
+  "test_rows": 90,
+  "test_missing": 0,
+  "all_months_skus": 2192,
+  "unchanged_stock_skus": 2041,
+  "anomalies": {
+    "orders_gt_visits": 0,
+    "buyouts_plus_cancels_gt_orders": 0,
+    "zero_visits_positive_orders": 0,
+    "negative_revenue": 0
+  },
+  "previous_period_mismatches": [
+    {
+      "month": "2024-07",
+      "common_skus": 2218,
+      "orders_mismatch": 695,
+      "revenue_mismatch": 602
+    },
+    {
+      "month": "2024-08",
+      "common_skus": 2274,
+      "orders_mismatch": 0,
+      "revenue_mismatch": 4
+    },
+    {
+      "month": "2024-09",
+      "common_skus": 2316,
+      "orders_mismatch": 890,
+      "revenue_mismatch": 796
+    },
+    {
+      "month": "2024-10",
+      "common_skus": 2342,
+      "orders_mismatch": 908,
+      "revenue_mismatch": 808
+    },
+    {
+      "month": "2024-11",
+      "common_skus": 2369,
+      "orders_mismatch": 976,
+      "revenue_mismatch": 879
+    },
+    {
+      "month": "2024-12",
+      "common_skus": 2390,
+      "orders_mismatch": 967,
+      "revenue_mismatch": 876
+    },
+    {
+      "month": "2025-01",
+      "common_skus": 2374,
+      "orders_mismatch": 0,
+      "revenue_mismatch": 1
+    },
+    {
+      "month": "2025-02",
+      "common_skus": 2372,
+      "orders_mismatch": 907,
+      "revenue_mismatch": 825
+    },
+    {
+      "month": "2025-03",
+      "common_skus": 2404,
+      "orders_mismatch": 992,
+      "revenue_mismatch": 906
+    },
+    {
+      "month": "2025-04",
+      "common_skus": 2428,
+      "orders_mismatch": 1021,
+      "revenue_mismatch": 941
+    }
+  ],
+  "abc": {
+    "A": 444,
+    "B": 442,
+    "C": 1587
+  },
+  "top20": [
+    {
+      "sku": "165757789",
+      "article": "kulirkaman/черный",
+      "revenue": 16596780,
+      "orders": 27371,
+      "stock": 17655,
+      "forecast": 22502.0,
+      "stock_gap": 9348.0,
+      "recommendation": "Пополнить"
+    },
+    {
+      "sku": "165757798",
+      "article": "kulirkaman/белый",
+      "revenue": 13873240,
+      "orders": 23689,
+      "stock": 6345,
+      "forecast": 21568.0,
+      "stock_gap": 19537.0,
+      "recommendation": "Пополнить"
+    },
+    {
+      "sku": "221519619",
+      "article": "futbolkaover/розовый",
+      "revenue": 13477107,
+      "orders": 22931,
+      "stock": 6417,
+      "forecast": 19266.0,
+      "stock_gap": 16703.0,
+      "recommendation": "Пополнить"
+    },
+    {
+      "sku": "30926516",
+      "article": "futbolkaover/черный",
+      "revenue": 12719821,
+      "orders": 25808,
+      "stock": 11587,
+      "forecast": 21027.0,
+      "stock_gap": 13646.0,
+      "recommendation": "Пополнить"
+    },
+    {
+      "sku": "29360157",
+      "article": "futbolkaover/белый",
+      "revenue": 11016644,
+      "orders": 20712,
+      "stock": 3025,
+      "forecast": 18623.0,
+      "stock_gap": 19323.0,
+      "recommendation": "Пополнить"
+    },
+    {
+      "sku": "221519598",
+      "article": "longover/розовый",
+      "revenue": 10113899,
+      "orders": 16719,
+      "stock": 6528,
+      "forecast": 15677.0,
+      "stock_gap": 12285.0,
+      "recommendation": "Пополнить"
+    },
+    {
+      "sku": "323180742",
+      "article": "futskims3K-102/черный",
+      "revenue": 9594388,
+      "orders": 16706,
+      "stock": 10840,
+      "forecast": 10908.0,
+      "stock_gap": 2250.0,
+      "recommendation": "Пополнить"
+    },
+    {
+      "sku": "314823259",
+      "article": "futbolkaprint/27в-259/бордовый",
+      "revenue": 8995154,
+      "orders": 13695,
+      "stock": 3269,
+      "forecast": 7896.0,
+      "stock_gap": 6207.0,
+      "recommendation": "Пополнить"
+    },
+    {
+      "sku": "15445452",
+      "article": "hudi/черный",
+      "revenue": 8984765,
+      "orders": 8706,
+      "stock": 914,
+      "forecast": 9986.0,
+      "stock_gap": 11070.0,
+      "recommendation": "Пополнить"
+    },
+    {
+      "sku": "35236713",
+      "article": "futbolkaover/молочный",
+      "revenue": 8885363,
+      "orders": 18868,
+      "stock": 8859,
+      "forecast": 17528.0,
+      "stock_gap": 12175.0,
+      "recommendation": "Пополнить"
+    },
+    {
+      "sku": "18985539",
+      "article": "hudi/молочный",
+      "revenue": 8051651,
+      "orders": 8318,
+      "stock": 8216,
+      "forecast": 7223.0,
+      "stock_gap": 452.0,
+      "recommendation": "Пополнить"
+    },
+    {
+      "sku": "31156679",
+      "article": "futbolkaover/какао",
+      "revenue": 7104990,
+      "orders": 15277,
+      "stock": 10604,
+      "forecast": 11396.0,
+      "stock_gap": 3072.0,
+      "recommendation": "Пополнить"
+    },
+    {
+      "sku": "79576331",
+      "article": "futbolkaover/бордовый",
+      "revenue": 7081954,
+      "orders": 15111,
+      "stock": 2805,
+      "forecast": 11016.0,
+      "stock_gap": 10415.0,
+      "recommendation": "Пополнить"
+    },
+    {
+      "sku": "226527745",
+      "article": "futbolkaprint/TheMovementClub-140/молочный",
+      "revenue": 6740304,
+      "orders": 8310,
+      "stock": 855,
+      "forecast": 6737.0,
+      "stock_gap": 7230.0,
+      "recommendation": "Пополнить"
+    },
+    {
+      "sku": "114526548",
+      "article": "futbolkaover/коричневый",
+      "revenue": 6598229,
+      "orders": 13274,
+      "stock": 2493,
+      "forecast": 9590.0,
+      "stock_gap": 9015.0,
+      "recommendation": "Пополнить"
+    },
+    {
+      "sku": "323186184",
+      "article": "futskims3K-102/белый",
+      "revenue": 6566616,
+      "orders": 14927,
+      "stock": 14670,
+      "forecast": 9917.0,
+      "stock_gap": 0.0,
+      "recommendation": "Снизить закупку"
+    },
+    {
+      "sku": "323186186",
+      "article": "futskims3K-102/бордовый",
+      "revenue": 6227841,
+      "orders": 10893,
+      "stock": 2403,
+      "forecast": 7192.0,
+      "stock_gap": 6228.0,
+      "recommendation": "Пополнить"
+    },
+    {
+      "sku": "22893732",
+      "article": "hudiman/черный",
+      "revenue": 5965381,
+      "orders": 4722,
+      "stock": 921,
+      "forecast": 4710.0,
+      "stock_gap": 4731.0,
+      "recommendation": "Пополнить"
+    },
+    {
+      "sku": "295771244",
+      "article": "kostyumfix3P-37-63/серыймеланж2",
+      "revenue": 5799195,
+      "orders": 3554,
+      "stock": 912,
+      "forecast": 2764.0,
+      "stock_gap": 2405.0,
+      "recommendation": "Пополнить"
+    },
+    {
+      "sku": "165757816",
+      "article": "kulirkaman/молочный",
+      "revenue": 5482332,
+      "orders": 11024,
+      "stock": 10104,
+      "forecast": 10728.0,
+      "stock_gap": 2770.0,
+      "recommendation": "Пополнить"
+    }
+  ]
+}
